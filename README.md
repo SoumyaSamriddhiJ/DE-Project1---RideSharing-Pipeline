@@ -71,7 +71,7 @@ Cancellation Analysis → Cancellation insights
 
 
 ## 👤 Author ##
-Faheem Ahmad
+Soumya Jaiswal
 
-GitHub: FaheemAhmad991
-Email: faheemnadeem991@gmail.com
+GitHub: SoumyaSamriddhiJ
+Email: SoumyaJaiswal261@gmail.com
